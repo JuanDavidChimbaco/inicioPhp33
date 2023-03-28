@@ -1,0 +1,17 @@
+- instalar JSON-handle (extencion de chrome)
+
+- async / await : para llamar varias peticiones para ejecutar funcion final 
+- promesas : hace una peticion para ejecutar una funcion 
+
+- YNgqH52GlwV5ID3r1DRWggc1C5UmtnrkrEkL37HtJjEt1DnO (llave de flaticon)
+
+- funciones array para php 
+- funciones para texto(funciones de String), para numero(funciones de int) y para arreglos(funciones de Array) == Php.net//Documentacion
+
+PDO extencion POO para conectar a base de datos. 
+
+crear un formulario para registrar un  pokemon en la base de datos. 
+
+
+instalar Git 
+
